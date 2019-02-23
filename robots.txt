@@ -1,0 +1,5 @@
+Sitemap: http://blog.guidely.appbucket.eu/sitemap.xml
+Sitemap: http://blog.guidely.appbucket.eu/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
